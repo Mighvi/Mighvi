@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-I’m Mighvi, a socially awkward programmer.
+I’m Mighvi, a socially awkward amateur programmer.
