@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-I’m **Mighvi** (pronounced *myvi*), a socially awkward amateur programmer.
+I’m **Mighro** (pronounced *myro*), a socially awkward amateur programmer.
